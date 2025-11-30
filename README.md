@@ -1,3 +1,17 @@
+*******week6 week6 week 6 update ******
+## Week 6 Progress Update
+
+- Added a prototype Kotlin `MainActivity.kt` file to represent the main structure of the Android application.
+- Added a basic `activity_main.xml` layout file that includes the app title and a placeholder button.
+- Created the `GreenIsTheirFavoriteColorPrototype` folder to organize the early development files.
+- Updated the Wiki outline and continued aligning the project with the Module 6 requirements.
+- This code is a prototype and demonstrates the beginning of app development as required for Week 6.
+
+Please review Below for past updates. 
+
+
+
+
 WEEK1-5 Update 
 Green Is Their Favorite Color – Eco Shopping Assistant
 
