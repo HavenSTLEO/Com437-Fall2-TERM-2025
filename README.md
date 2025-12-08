@@ -1,3 +1,39 @@
+WWEK 7 WEEK 7 WEEK 7
+
+# EcoTrail Navigator – Android App
+
+EcoTrail Navigator is a location-aware sustainability app designed to help users discover eco-friendly outdoor locations, log activities, and receive environmental insights in real time.
+
+## Features
+- Location-based eco-spot discovery
+- Interactive map using Google Maps API
+- Activity logging with SQLite
+- Eco Tips feed with dynamic content
+- Clean Material Design UI
+
+## Technologies
+- Android Studio (Java/Kotlin)
+- Jetpack Libraries
+- Google Maps / Location Services
+- SQLite
+- Optional Firebase support
+
+## Project Outline
+
+
+
+## Version Changelog
+See `CHANGELOG.md` or Wiki page.
+
+## Installation
+
+
+
+
+
+
+
+
 *******week6 week6 week 6 update ******
 ## Week 6 Progress Update
 
